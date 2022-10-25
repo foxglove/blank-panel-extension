@@ -1,5 +1,5 @@
-# blankPanel version history
+# Blank Panel version history
 
-## 0.0.0
+## v1.0.0
 
-- Alpha testing
+- First release
